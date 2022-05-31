@@ -1,0 +1,34 @@
+/// isAuthenticated and isNotAuthenticated middlewares
+
+/// apply validations in routes
+
+// add comments for all routes and wherever required
+
+// when move to create-profile (or any link when a user is authenticated) via url, redirected to dashboard, you know the reason...but not solution
+
+// don't want to use windows.reload() to delete profile
+
+// add links in PostItem
+
+// unable to access props.match.params.id in Post Route when i make it PrivateRoute
+
+// download code of old tutorial of the same and try to solve above problems
+
+// props.posts.map is not a function..in PostItem.js
+solution is delaying
+
+show profile data in EditProfile, check it after completing, CreateProfile also
+
+white space in landing page
+
+
+
+
+revise react understand the basic structures of react apps (using routing and redux)
+class-> className
+
+answer for more questions like...How to prevent state change in React after page refresh/view change?
+
+if you want to add some functionality in your MERN stack project, use an action file for that, reducer file and add components for the same. that's the flow of project.....traversy media
+
+🍝😋🍳👨🏻‍💻😴🔁
